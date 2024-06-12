@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shray88
-- 👀 I’m interested in Python/C++ development and in Cybersecurity 
+- 👀 I’m interested in Python, Web Development, C++ and in Cybersecurity 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
